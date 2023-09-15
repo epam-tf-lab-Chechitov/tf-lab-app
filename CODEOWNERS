@@ -1,0 +1,3 @@
+# Specify code owners for certain directories or files
+# Use the format: [pattern] @username or @team
+* @epam-tf-lab-Chechitov/security-team
